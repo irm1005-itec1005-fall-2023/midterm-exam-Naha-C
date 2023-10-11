@@ -53,4 +53,8 @@ div {
   box-shadow: #9c6644 0px 8px 100px;
 }
 
-
+.price {
+  color: #6c2e07;
+  font-size: 3rem;
+  font-weight: bold;
+}
