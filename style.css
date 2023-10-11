@@ -29,7 +29,8 @@ html {
 
 body {
   font-family: Arial, Helvetica, sans-serif;
-  background-color:#ede0d4;
+  background: rgb(221,184,146);
+background: linear-gradient(90deg, rgba(221,184,146,1) 0%, rgba(237,224,212,1) 50%, rgba(230,204,178,1) 100%);
   align-self: center;
   margin: 2rem;
   padding: 5rem;
@@ -51,3 +52,5 @@ div {
   border-radius: 20px;
   box-shadow: #9c6644 0px 8px 100px;
 }
+
+
