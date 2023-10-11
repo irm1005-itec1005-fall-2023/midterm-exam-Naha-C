@@ -45,6 +45,10 @@ h1, .p2{
   color: #6c2e07;
 }
 
+.p2{
+  font-weight: bold;
+}
+
 div {
   min-width: 500px;
   padding: 5rem;
