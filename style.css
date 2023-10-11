@@ -30,7 +30,10 @@ html {
 body {
   font-family: Arial, Helvetica, sans-serif;
   background-color:#ede0d4;
-  display: flex;
+  align-self: center;
+  margin: 2rem;
+  padding: 5rem;
+
 }
 .p1 { 
   color: #af7752;
@@ -39,4 +42,12 @@ body {
 
 h1, .p2{
   color: #6c2e07;
+}
+
+div {
+  min-width: 500px;
+  padding: 5rem;
+  margin: 2rem;
+  border-radius: 20px;
+  box-shadow: #9c6644 0px 8px 100px;
 }
